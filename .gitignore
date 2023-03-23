@@ -9,3 +9,5 @@ Gemfile.lock
 *.sw*
 *.gem
 .rbx
+gemfiles/*.lock
+.ruby-version
