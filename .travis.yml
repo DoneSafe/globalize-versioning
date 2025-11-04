@@ -7,6 +7,7 @@ env:
   - RAILS=5.1
   - RAILS=5.2
   - RAILS=6.0
+  - RAILS=8.1
 matrix:
   exclude:
     - rvm: 2.3.7
@@ -17,3 +18,4 @@ rvm:
   - 2.3.7
   - 2.4.4
   - 2.5.3
+  - 3.2.9
