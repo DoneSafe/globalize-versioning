@@ -1,3 +1,7 @@
+### 0.8.0 (2025-12-16)
+
+- added support for Rails 8.1
+
 ### 0.6.0 (2023-03-23)
 
 - added support for rails 7
